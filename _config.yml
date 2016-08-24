@@ -1,0 +1,14 @@
+layout_spectrum: 0.5382773105520755
+typography_spectrum: 0.00014015263877809048
+color:
+  brandStrength: 0.6241328842006624
+  lightness: 0.0684297604020685
+  saturation: 0.7917156459297985
+  rhythmicContrast: 0.4107562741264701
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: pablote
